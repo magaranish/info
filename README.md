@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title> Table format mark sheet</title>
@@ -45,6 +44,6 @@
     </tr>
     </ol>
 </table> 
-<h2 style="color: green;">verified</h2>   
+<h2 style="color: green;">done</h2>   
 </body>
 </html>
