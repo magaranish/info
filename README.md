@@ -3,7 +3,7 @@
         <title> Table format</title>
     </head>
     <body style="background-color: silver;">
-        <h1 style="color: green;">Mark sheet</h1> 
+        <h1 style="color: green;">specks of Bio-Data</h1> 
     <table border="2">
     <ol>
         <thead>
