@@ -15,7 +15,7 @@
        <th colspan="3">Marks</th>
     </tr>
     <tr>
-        <td>fisrt</td>
+        <td>first</td>
         <td>middle</td>
         <td>last</td>
         <td>obtained</td>
